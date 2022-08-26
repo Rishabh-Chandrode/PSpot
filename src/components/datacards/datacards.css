@@ -1,0 +1,36 @@
+.datacard-wrapper{
+    padding: 5px;
+}
+.datacard{
+    padding: 10px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2);
+    display: flex;
+}
+
+.datacard__data{
+    width: 20%;
+    padding: 0 20px;
+}
+.datacard__button{
+    padding: 8px;
+    /* background-color: #50C878; */
+    color: white;
+     /* font-weight: 700; */
+    font-size: 1rem; 
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.3);
+}
+.datacard__button:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.1);
+}
+
+
+
+.datacard__checkOut__button{
+    background-color: 	#088F8F;
+}
+.datacard__delete__button{
+    background-color: red;
+}

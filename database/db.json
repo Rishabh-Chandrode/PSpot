@@ -1,0 +1,12 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "name": "james",
+      "vehicleNumber": "MH-12-0204",
+      "vehicleCategory": "car",
+      "checkInTime": "8/26/2022, 8:39:26 PM",
+      "checkOutTime": "8/26/2022, 9:00:33 PM"
+    }
+  ]
+}

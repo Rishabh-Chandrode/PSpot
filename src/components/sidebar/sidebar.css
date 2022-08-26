@@ -1,0 +1,39 @@
+.sidebar{
+    background-color: #36393F;
+    
+    height: 100%; 
+    
+}
+.sidebar__image__wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 100%;
+    background-color: #2F3136;
+    
+}
+.sidebar__image{
+    height: 180px;
+    width: 180px;
+    padding: 10px;
+    margin: 50px 0;
+    border: 2px solid #fff;
+    border-radius: 5px;
+}
+.sidebar__item__wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    
+    width: 100%;
+    
+}
+.sidebar__item{
+    color: white;
+    font-size: 20px;
+    width: 100%;
+    background-color: #36454f;
+    padding: 20px;
+}

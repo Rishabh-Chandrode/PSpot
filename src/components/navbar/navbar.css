@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #DE3548;
+   
+    height: 7vh;
+    align-items: center;
+    display: flex;
+}
+
+.backarrow{
+    font-size: 1.5rem;
+    margin-left: 10px;
+    color: white;
+}
+.backarrow:hover{
+    color: #F4F1DE;
+    cursor: pointer;
+}
