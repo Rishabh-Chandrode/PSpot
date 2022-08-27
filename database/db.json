@@ -7,6 +7,14 @@
       "vehicleCategory": "car",
       "checkInTime": "8/26/2022, 8:39:26 PM",
       "checkOutTime": "8/26/2022, 9:00:33 PM"
+    },
+    {
+      "name": "dany",
+      "vehicleNumber": "11-22-3333",
+      "vehicleCategory": "car",
+      "checkInTime": "8/27/2022, 2:59:04 PM",
+      "checkOutTime": null,
+      "id": 2
     }
   ]
 }

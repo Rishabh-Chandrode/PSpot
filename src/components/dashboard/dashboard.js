@@ -17,6 +17,7 @@ const Dashboard = () => {
         
       }catch(err){
         console.log(err);
+        alert("can't fetch data make sure server is running");
       }
     }
     fetchData();
